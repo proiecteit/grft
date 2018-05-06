@@ -1,0 +1,14 @@
+"pool_list" :
+[
+	{
+		"pool_address" : "mining.grftpool.com:5555", 
+		"wallet_address" : "GMPHYf5KRkcAyik7Jw9oHRfJtUdw2Kj5f4VTFJ25AaFVYxofetir8Cnh7S76Q854oMXzwaguL8p5KEz1tm3rn1SA6rAqJRG5YqkACWCzPh", 
+		"rig_id" : "", 
+		"pool_password" : "x", 
+		"use_nicehash" : false, 
+		"use_tls" : false, 
+		"tls_fingerprint" : "", 
+		"pool_weight" : 1 
+	},
+],
+"currency" : "graft",
